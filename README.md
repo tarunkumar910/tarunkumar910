@@ -15,8 +15,10 @@ I'm a third-year Electronics and Communication Engineering B.Tech student that i
 To land a demanding job as an entry-level cybersecurity analyst so I may apply my problem-solving, vulnerability-assessment, and ethical hacking abilities. I want to help protect digital assets and improve corporate security with my solid background in IoT systems, programming, and practical experience with tools like Wireshark, Nmap, and OWASP ZAP. In order to contribute significantly to a Security Operations Center (SOC) team, I'm dedicated to lifelong learning and cybersecurity excellence.t.
 
 ## Skills
-Cybersecurity Skills
-Ethical Hacking: Proficient in penetration testing, vulnerability assessment, and threat analysis.
+
+**Cybersecurity Skills**
+
+-**Ethical Hacking**: Proficient in penetration testing, vulnerability assessment, and threat analysis.
 Network Security: Skilled in traffic monitoring, packet analysis using tools like Wireshark and Nmap.
 Web Application Security: Experienced with OWASP ZAP, Burp Suite for detecting vulnerabilities.
 SIEM: Familiar with log analysis and implementation of tools like Elastic Stack.
