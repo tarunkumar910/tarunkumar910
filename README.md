@@ -19,22 +19,30 @@ To land a demanding job as an entry-level cybersecurity analyst so I may apply m
 **Cybersecurity Skills**
 
 * **Ethical Hacking**: Proficient in penetration testing, vulnerability assessment, and threat analysis.
-Network Security: Skilled in traffic monitoring, packet analysis using tools like Wireshark and Nmap.
-Web Application Security: Experienced with OWASP ZAP, Burp Suite for detecting vulnerabilities.
-SIEM: Familiar with log analysis and implementation of tools like Elastic Stack.
-Programming and Scripting
-Languages: Python, Java, C, JavaScript.
-Developed scripts for automating security tasks and mitigating threats.
-Web Development
-Proficient in HTML, CSS, Bootstrap for responsive web design.
-Created user-friendly UI with performance optimization for desktop and mobile platforms.
-IoT Systems
-Expertise in IoT development, including designing biometric systems with Arduino.
-Ensured secure data integration and hardware-software interaction.
-Soft Skills
-Problem-solving: Enhanced through participation in coding challenges and cybersecurity rooms.
-Teamwork: Collaborated on hackathons and projects to deliver impactful solutions.
-Communication: Created detailed security reports and presented findings effectively.
+* **Network Security**: Skilled in traffic monitoring, packet analysis using tools like Wireshark and Nmap.
+* **Web Application Security**: Experienced with OWASP ZAP, Burp Suite for detecting vulnerabilities.
+* **SIEM**: Familiar with log analysis and implementation of tools like Elastic Stack.
+  
+**Programming and Scripting**
+
+* **Languages**: Python, Java, C, JavaScript.
+* Developed scripts for automating security tasks and mitigating threats.
+
+
+**Web Development**
+
+* Proficient in HTML, CSS, Bootstrap for responsive web design.
+* Created user-friendly UI with performance optimization for desktop and mobile platforms.
+  
+**IoT Systems**
+
+* Expertise in IoT development, including designing biometric systems with Arduino.
+* Ensured secure data integration and hardware-software interaction.
+
+**Soft Skills**
+* **Problem-solving**: Enhanced through participation in coding challenges and cybersecurity rooms.
+* **Teamwork**: Collaborated on hackathons and projects to deliver impactful solutions.
+* **Communication**: Created detailed security reports and presented findings effectively.
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
