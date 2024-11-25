@@ -11,9 +11,8 @@ I'm a third-year Electronics and Communication Engineering B.Tech student that i
 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+To land a demanding job as an entry-level cybersecurity analyst so I may apply my problem-solving, vulnerability-assessment, and ethical hacking abilities. I want to help protect digital assets and improve corporate security with my solid background in IoT systems, programming, and practical experience with tools like Wireshark, Nmap, and OWASP ZAP. In order to contribute significantly to a Security Operations Center (SOC) team, I'm dedicated to lifelong learning and cybersecurity excellence.t.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
