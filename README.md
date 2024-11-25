@@ -18,7 +18,7 @@ To land a demanding job as an entry-level cybersecurity analyst so I may apply m
 
 **Cybersecurity Skills**
 
--**Ethical Hacking**: Proficient in penetration testing, vulnerability assessment, and threat analysis.
+* **Ethical Hacking**: Proficient in penetration testing, vulnerability assessment, and threat analysis.
 Network Security: Skilled in traffic monitoring, packet analysis using tools like Wireshark and Nmap.
 Web Application Security: Experienced with OWASP ZAP, Burp Suite for detecting vulnerabilities.
 SIEM: Familiar with log analysis and implementation of tools like Elastic Stack.
