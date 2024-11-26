@@ -21,7 +21,7 @@ To land a demanding job as an entry-level cybersecurity analyst so I may apply m
 * **Ethical Hacking**: Proficient in penetration testing, vulnerability assessment, and threat analysis.
 * **Network Security**: Skilled in traffic monitoring, packet analysis using tools like Wireshark and Nmap.
 * **Web Application Security**: Experienced with OWASP ZAP, Burp Suite for detecting vulnerabilities.
-* **SIEM**: Familiar with log analysis and implementation of tools like Elastic Stack.
+
   
 **Programming and Scripting**
 
@@ -44,13 +44,34 @@ To land a demanding job as an entry-level cybersecurity analyst so I may apply m
 * **Teamwork**: Collaborated on hackathons and projects to deliver impactful solutions.
 * **Communication**: Created detailed security reports and presented findings effectively.
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
+#### **Cybersecurity Tools**
+- **Wireshark:** For network packet analysis and traffic monitoring.  
+- **Nmap:** Used for network scanning and vulnerability detection.  
+- **Burp Suite:** For web application security testing.  
+- **OWASP ZAP:** Identifying and mitigating web vulnerabilities.  
+
+#### **Programming Tools**
+- **VS Code:** Efficient coding and debugging environment.  
+- **Git:** For version control and collaborative development.
+
+#### **IoT and Hardware Tools**
+- **Arduino IDE:** Developing and deploying IoT solutions.  
+- **Velociraptor:** Endpoint forensic and threat detection.
+
+#### **Web Development Tools**
+- **HTML/CSS Frameworks:** Bootstrap for responsive UI design.  
+- **Browser DevTools:** Debugging and optimizing web applications.
+  
+  
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+   <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
+
+   <a href="https://nmap.org/"><img src="https://img.shields.io/badge/-Nmap-007ACC?&style=for-the-badge&logo=Linux&logoColor=white" /></a>
+
+    <a href="https://nmap.org/"><img src="https://img.shields.io/badge/-Burp_Suite-FF5733?&style=for-the-badge&logo=OWASP&logoColor=white" /></a>
+
 </div>
 
 ### Endpoint
