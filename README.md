@@ -85,5 +85,6 @@ To land a demanding job as an entry-level cybersecurity analyst so I may apply m
 ## Projects
 <a href="https://tarunkumar910.github.io/Assignment/"><img src="https://img.shields.io/badge/-Assignment-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
 <a href="https://tarunkumar910.github.io/cv/"><img src="https://img.shields.io/badge/-CV-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
+<a href="https://tarunkumar910.github.io/tin-dog-project/"><img src="https://img.shields.io/badge/-Tin_Dog_Project-F2994A?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
 
  
