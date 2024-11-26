@@ -83,5 +83,5 @@ To land a demanding job as an entry-level cybersecurity analyst so I may apply m
 </div>
 
 ## Projects
-- Detection Lab
+<a href="https://tarunkumar910.github.io/Assignment/"><img src="https://img.shields.io/badge/-Assignment-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
 - SOC Automation Project    
