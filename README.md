@@ -64,28 +64,7 @@ To land a demanding job as an entry-level cybersecurity analyst so I may apply m
 - **Browser DevTools:** Debugging and optimizing web applications.
   
   
-### Network
-<div>
-   <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
 
-   <a href="https://nmap.org/"><img src="https://img.shields.io/badge/-Nmap-007ACC?&style=for-the-badge&logo=Linux&logoColor=white" /></a>
-
-    <a href="https://nmap.org/"><img src="https://img.shields.io/badge/-Burp_Suite-FF5733?&style=for-the-badge&logo=OWASP&logoColor=white" /></a>
-
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
