@@ -84,13 +84,13 @@ To land a demanding job as an entry-level cybersecurity analyst so I may apply m
 
 ## Projects
 
-  * Web  Development Projects
-    <a href="https://tarunkumar910.github.io/Assignment/"><img src="https://img.shields.io/badge/-Assignment-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
-    <a href="https://tarunkumar910.github.io/cv/"><img src="https://img.shields.io/badge/-CV-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
-    <a href="https://tarunkumar910.github.io/tin-dog-project/"><img src="https://img.shields.io/badge/-Tin_Dog_Project-F2994A?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
-    <a href="https://tarunkumar910.github.io/personal/"><img src="https://img.shields.io/badge/-Personal-8E44AD?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
+** Web  Development Projects **
+<a href="https://tarunkumar910.github.io/Assignment/"><img src="https://img.shields.io/badge/-Assignment-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
+<a href="https://tarunkumar910.github.io/cv/"><img src="https://img.shields.io/badge/-CV-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
+<a href="https://tarunkumar910.github.io/tin-dog-project/"><img src="https://img.shields.io/badge/-Tin_Dog_Project-F2994A?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
+<a href="https://tarunkumar910.github.io/personal/"><img src="https://img.shields.io/badge/-Personal-8E44AD?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
 
-  * Cyber Security Project
-    <a href="https://github.com/tarunkumar910/password_strength_checker.git"><img src="https://img.shields.io/badge/-Password_Strength_Checker-8E44AD?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
+** Cyber Security Project **
+<a href="https://github.com/tarunkumar910/password_strength_checker.git"><img src="https://img.shields.io/badge/-Password_Strength_Checker-8E44AD?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
 
  
