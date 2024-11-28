@@ -67,7 +67,7 @@ To land a demanding job as an entry-level cybersecurity analyst so I may apply m
 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <a href="https://cit2.internshipstudio.com/certificates/validate_certificate.php?verify=ISETHT103046"><img src="https://img.shields.io/badge/-Cyber_Security-FF0000?&style=for-the-badge&logo=CyberSecurity&logoColor=white" /></a>
 <a href="https://cit2.internshipstudio.com/certificates/validate_certificate.php?verify=ISETHI103046"><img src="https://img.shields.io/badge/-Internship-007ACC?&style=for-the-badge&logo=InternshipStudio&logoColor=white" /></a>
