@@ -95,4 +95,8 @@ To land a demanding job as an entry-level cybersecurity analyst so I may apply m
 
 <a href="https://github.com/tarunkumar910/password_strength_checker.git"><img src="https://img.shields.io/badge/-Password_Strength_Checker-8E44AD?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
 
+
+**JAVA Project**
+
+<a href="https://github.com/tarunkumar910/tic_tac_to_game"><img src="https://img.shields.io/badge/-Tic_tac_to_Game-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
  
