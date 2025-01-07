@@ -95,21 +95,20 @@ During my **4-week internship**, I worked on various projects that enhanced my t
    - Implemented encryption for sensitive data.  
    [🔗 View Project](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Password%20manager%20Guide)
 
-2. **Packet Sniffer Tool**  
-   - Built a network traffic monitoring tool to detect suspicious activity.  
-   - Used Python and Scapy for packet analysis.  
-
-3. **Phishing Email Detection Report**  
+2. **Phishing Email Detection Report**  
    - Conducted research on phishing techniques and detection methods.  
    - Created a detailed report with strategies for identifying and mitigating phishing attacks.  
    [🔗 View Report](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Phishing%20Detection)
 
-4. **Vulnerability Scanning**  
+3. **Vulnerability Scanning**  
    - Performed vulnerability scans using OpenVAS.  
    - Documented findings and proposed remediation steps.  
    [🔗 View Report](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Open%20VAS)
 
 ---
+
+
+
 ## Projects
 
 **Web  Development Projects**
