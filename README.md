@@ -88,6 +88,10 @@ To land a demanding job as an entry-level cybersecurity analyst so I may apply m
 
 ### **Cybersecurity Internship at RD INFRO TECHNOLOGY**
 During my **4-week internship**, I worked on various projects that enhanced my technical and practical cybersecurity skills.  
+<a href="https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/blob/main/Attachment/CYBER%20SECURITY.png">
+    <img src="https://img.shields.io/badge/-Cyber_Security-FF0000?&style=for-the-badge&logo=CyberSecurity&logoColor=white" />
+</a>
+
 
 #### Key Projects:
 1. **Password Manager**  
@@ -104,7 +108,7 @@ During my **4-week internship**, I worked on various projects that enhanced my t
    - Performed vulnerability scans using OpenVAS.  
    - Documented findings and proposed remediation steps.  
    [🔗 View Report](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Open%20VAS)
-
+ 
 ---
 
 
