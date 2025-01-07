@@ -82,6 +82,34 @@ To land a demanding job as an entry-level cybersecurity analyst so I may apply m
 
 </div>
 
+---
+
+## Internship
+
+### **Cybersecurity Internship at RD INFRO TECHNOLOGY**
+During my **4-week internship**, I worked on various projects that enhanced my technical and practical cybersecurity skills.  
+
+#### Key Projects:
+1. **Password Manager**  
+   - Developed a Python-based tool to create, store, and manage passwords securely.  
+   - Implemented encryption for sensitive data.  
+   [🔗 View Project](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Password%20manager%20Guide)
+
+2. **Packet Sniffer Tool**  
+   - Built a network traffic monitoring tool to detect suspicious activity.  
+   - Used Python and Scapy for packet analysis.  
+
+3. **Phishing Email Detection Report**  
+   - Conducted research on phishing techniques and detection methods.  
+   - Created a detailed report with strategies for identifying and mitigating phishing attacks.  
+   [🔗 View Report](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Phishing%20Detection)
+
+4. **Vulnerability Scanning**  
+   - Performed vulnerability scans using OpenVAS.  
+   - Documented findings and proposed remediation steps.  
+   [🔗 View Report](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Open%20VAS)
+
+---
 ## Projects
 
 **Web  Development Projects**
