@@ -89,7 +89,7 @@ To land a demanding job as an entry-level cybersecurity analyst so I may apply m
 ### **Cybersecurity Internship at RD INFRO TECHNOLOGY**
 During my **4-week internship**, I worked on various projects that enhanced my technical and practical cybersecurity skills.  
 <a href="https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/blob/main/Attachment/CYBER%20SECURITY.png">
-    <img src="https://img.shields.io/badge/-Cyber_Security-FF0000?&style=for-the-badge&logo=CyberSecurity&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cyber_Security_Intern-FF0000?&style=for-the-badge&logo=CyberSecurity&logoColor=white" />
 </a>
 
 
