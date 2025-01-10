@@ -2,6 +2,7 @@
 <a href="https://www.linkedin.com/in/tarun-kumar-pathak/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://tryhackme.com/r/p/tarunkumar910"><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 <a href="https://leetcode.com/u/tarunkumar910/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?&style=for-the-badge&logo=LeetCode&logoColor=white" /></a>
+<a href="https://tarunkumar910.github.io/"><img src="https://img.shields.io/badge/-Portfolio-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 
