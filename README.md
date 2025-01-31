@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **VAPT, Network scanning, Pen testing**
 
-- 👨‍💻 All of my projects are available at [https://tarunkumar910.github.io/](https://tarunkumar910.github.io/)
+- 👨‍💻 All of my projects are available at [Project](https://tarunkumar910.github.io/projects.html)
 
 - 📫 How to reach me **kr.pathak.tarun@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sSdKyyUmtRUBJjx7RfxdGN4uX_xFbZEO/view?usp=sharing](https://drive.google.com/file/d/1sSdKyyUmtRUBJjx7RfxdGN4uX_xFbZEO/view?usp=sharing)
+- 📄 Know about my experiences [Resume](cv/hello.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
