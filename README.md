@@ -136,3 +136,11 @@ If you like my content, consider supporting me on:
 - 💬 [Medium](https://medium.com/@deathkiller447) – Read my cybersecurity write-ups  
 - 🔗 [LinkedIn](https://linkedin.com/in/tarun-kumar-pathak) – Connect for professional opportunities  
 
+
+
+
+---
+
+### 🚀 Thanks for Visiting! Happy Hacking!  
+
+
