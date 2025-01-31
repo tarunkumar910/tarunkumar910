@@ -43,6 +43,17 @@
 ✔ **IoT & Embedded Systems:** Arduino IDE, Velociraptor  
 
 ---
+
+## 🎓 Certifications  
+
+- 🛡 **[Cybersecurity Internship + Training - Internship Studio](https://cit2.internshipstudio.com/certificates/validate_certificate.php?verify=ISETHT103046)**  
+- 📜 **[Python - Udemy](https://www.udemy.com/certificate/UC-17a06d36-a8ca-415b-831e-e77a586a0b33/)**  
+- 🔍 **[SQL Slayer - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SE9TRGWNI4.pdf)**  
+- 🌐 **[Web Security - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SE9TRGWNI4.pdf)**  
+- 🖥 **[Linux & SQL - Coursera](https://www.coursera.org/account/accomplishments/verify/1JZ3FD5ZOVBA)**  
+- 🔐 **[Foundations of Cybersecurity - Coursera](https://www.coursera.org/account/accomplishments/verify/B506671WRWX4)**  
+
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tarun-kumar-pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-kumar-pathak" height="30" width="40" /></a>
