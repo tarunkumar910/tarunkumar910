@@ -15,6 +15,34 @@
 
 - 📄 Know about my experiences [Resume](cv/hello.pdf)
 
+
+---
+
+## 🛠 Skills
+
+### 🔹 **Cybersecurity & Ethical Hacking**
+✔ Penetration Testing & Vulnerability Assessment  
+✔ Web Security (SQL Injection, XSS, CSRF, NoSQL Injection)  
+✔ Network Security & Traffic Analysis (Wireshark, Nmap, OpenVAS)  
+✔ Cryptography & Secure Password Management  
+✔ Capture The Flag (CTF) Challenges & Bug Bounty Research  
+
+### 🔹 **Programming & Scripting**
+✔ **Languages:** Python, Java, C, JavaScript  
+✔ Secure coding practices to prevent security vulnerabilities  
+✔ Automating security tasks & vulnerability detection  
+
+### 🔹 **Web & IoT Development**
+✔ **Frontend:** HTML, CSS, Bootstrap  
+✔ **IoT:** Arduino, ESP8266, Biometric Systems  
+✔ **Database:** SQL, XAMPP  
+
+### 🔹 **Tools & Technologies**
+✔ **Cybersecurity Tools:** Wireshark, Nmap, Burp Suite, OWASP ZAP, OpenVAS  
+✔ **Development Tools:** Git, VS Code, Browser DevTools  
+✔ **IoT & Embedded Systems:** Arduino IDE, Velociraptor  
+
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tarun-kumar-pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-kumar-pathak" height="30" width="40" /></a>
