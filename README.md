@@ -47,11 +47,14 @@
 ## 🎓 Certifications  
 
 - 🛡 **[Cybersecurity Internship + Training - Internship Studio](https://cit2.internshipstudio.com/certificates/validate_certificate.php?verify=ISETHT103046)**  
-- 📜 **[Python - Udemy](https://www.udemy.com/certificate/UC-17a06d36-a8ca-415b-831e-e77a586a0b33/)**  
-- 🔍 **[SQL Slayer - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SE9TRGWNI4.pdf)**  
-- 🌐 **[Web Security - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SE9TRGWNI4.pdf)**  
+- 📜 **[Internship - Internship Studio](https://cit2.internshipstudio.com/certificates/validate_certificate.php?verify=ISETHI103046)**  
+- 🔍 **[Risk Management - Coursera](https://www.coursera.org/account/accomplishments/verify/36AJC7S2JA57)**  
 - 🖥 **[Linux & SQL - Coursera](https://www.coursera.org/account/accomplishments/verify/1JZ3FD5ZOVBA)**  
 - 🔐 **[Foundations of Cybersecurity - Coursera](https://www.coursera.org/account/accomplishments/verify/B506671WRWX4)**  
+- 🌍 **[Web Fundamentals - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SE9TRGWNI4.pdf)**  
+- 🔰 **[Pre Security - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-C2G2ZXOENZ.png)**  
+- 🐍 **[Python - Udemy](https://www.udemy.com/certificate/UC-17a06d36-a8ca-415b-831e-e77a586a0b33/)**  
+- 🌐 **[Web Development - Udemy](https://www.udemy.com/certificate/UC-53aacb89-3dfd-4d80-bed1-3db59eda547b/)**  
 
 ---
 <h3 align="left">Connect with me:</h3>
