@@ -45,7 +45,7 @@
 ---
 
 ## 🎓 Certifications  
-- 🛡 **[Cybersecurity Internship + Training - Internship Studio](https://cit2.internshipstudio.com/certificates/validate_certificate.php?verify=ISETHT103046)**  
+- 🛡 **[Cybersecurity Training - Internship Studio](https://cit2.internshipstudio.com/certificates/validate_certificate.php?verify=ISETHT103046)**  
 - 📜 **[Internship - Internship Studio](https://cit2.internshipstudio.com/certificates/validate_certificate.php?verify=ISETHI103046)**  
 - 🔍 **[Risk Management - Coursera](https://www.coursera.org/account/accomplishments/verify/36AJC7S2JA57)**  
 - 🖥 **[Linux & SQL - Coursera](https://www.coursera.org/account/accomplishments/verify/1JZ3FD5ZOVBA)**  
