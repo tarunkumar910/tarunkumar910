@@ -62,6 +62,39 @@ You can find all of my projects here: **[My Projects](https://tarunkumar910.gith
 - 💻 **[500 Difficulty Rating - CodeChef Java](https://www.codechef.com/certificates/public/dc2ccbe)**  
 
 ---
+
+## 💼 Internships  
+
+### 🔹 **Cybersecurity Internship | RD INFRO TECHNOLOGY**  
+✔ Conducted **penetration testing** and **network vulnerability scans**  
+✔ Developed **a secure password manager tool in Python**  
+✔ Created a **Phishing Email Detection Report**  
+✔ Performed **vulnerability assessments** using OpenVAS  
+
+[📜 Internship Certificate](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/blob/main/Attachment/CYBER%20SECURITY.png)  
+
+---
+
+## 🚀 Featured Projects  
+
+### 🔹 **Cybersecurity Projects**  
+✔ **[Password Strength Checker](https://github.com/tarunkumar910/password_strength_checker.git)** – Developed a tool to analyze password security.  
+✔ **[Intrusion Prevention System (IPS)](https://github.com/tarunkumar910/ips_tool)** – Built an IPS from scratch.  
+✔ **[ZIP Password Cracking Tool](https://github.com/tarunkumar910/zip_password_cracker)** – In development.  
+
+### 🔹 **Java Projects**  
+✔ **[Tic-Tac-Toe Game](https://github.com/tarunkumar910/tic_tac_to_game)** – A simple game built using Java.  
+
+### 🔹 **IoT Projects**  
+✔ **[Biometric Attendance System](https://github.com/tarunkumar910/iot_biometric_attendance)** – Built with Arduino Nano & ESP8266.  
+
+### 🔹 **Web Development Projects**  
+✔ **[Personal Portfolio](https://tarunkumar910.github.io/personal/)** – Responsive portfolio website.  
+✔ **[Tin Dog](https://tarunkumar910.github.io/tin-dog-project/)** – A fun Bootstrap-based project.  
+✔ **[CV Website](https://tarunkumar910.github.io/cv/)** – Online resume.  
+
+
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tarun-kumar-pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-kumar-pathak" height="30" width="40" /></a>
