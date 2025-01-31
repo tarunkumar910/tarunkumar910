@@ -120,7 +120,7 @@ You can find all of my projects here: **[My Projects](https://tarunkumar910.gith
 <a href="https://fb.com/tarun.kr.pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tarun.kr.pathak" height="30" width="40" /></a>
 <a href="https://instagram.com/tarunkumar_910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tarunkumar_910" height="30" width="40" /></a>
 <a href="https://medium.com/@deathkiller447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@deathkiller447" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/limitlessjourney910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="limitlessjourney910" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@limitlessjourney910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="limitlessjourney910" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tarunpathakkr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tarunpathakkr" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tarun_pathak_kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tarun_pathak_kr" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tarunkumar910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tarunkumar910" height="30" width="40" /></a>
@@ -132,7 +132,7 @@ You can find all of my projects here: **[My Projects](https://tarunkumar910.gith
 
 ### ☕ Support Me:
 If you like my content, consider supporting me on:  
-- 🎥 [YouTube](https://www.youtube.com/c/limitlessjourney910) – Subscribe for tech and gaming tutorials  
+- 🎥 [YouTube](https://www.youtube.com/@limitlessjourney910) – Subscribe for tech and gaming tutorials  
 - 💬 [Medium](https://medium.com/@deathkiller447) – Read my cybersecurity write-ups  
 - 🔗 [LinkedIn](https://linkedin.com/in/tarun-kumar-pathak) – Connect for professional opportunities  
 
