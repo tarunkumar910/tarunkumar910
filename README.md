@@ -97,6 +97,9 @@
 
 ## 👨‍💻 Projects
 You can find all of my projects here: **[My Projects](https://tarunkumar910.github.io/projects.html)**
+
+
+
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
