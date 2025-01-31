@@ -128,7 +128,10 @@ You can find all of my projects here: **[My Projects](https://tarunkumar910.gith
 </p>
 
 
-☕<h3 align="left"> Support Me:</h3>
+
+
+
+☕ <h3 align="left"> Support Me:</h3>
 If you like my content, consider supporting me on:  
 - 🎥 [YouTube](https://www.youtube.com/c/limitlessjourney910) – Subscribe for tech and gaming tutorials  
 - 💬 [Medium](https://medium.com/@deathkiller447) – Read my cybersecurity write-ups  
