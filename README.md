@@ -45,16 +45,20 @@
 ---
 
 ## 🎓 Certifications  
-
 - 🛡 **[Cybersecurity Internship + Training - Internship Studio](https://cit2.internshipstudio.com/certificates/validate_certificate.php?verify=ISETHT103046)**  
 - 📜 **[Internship - Internship Studio](https://cit2.internshipstudio.com/certificates/validate_certificate.php?verify=ISETHI103046)**  
 - 🔍 **[Risk Management - Coursera](https://www.coursera.org/account/accomplishments/verify/36AJC7S2JA57)**  
 - 🖥 **[Linux & SQL - Coursera](https://www.coursera.org/account/accomplishments/verify/1JZ3FD5ZOVBA)**  
 - 🔐 **[Foundations of Cybersecurity - Coursera](https://www.coursera.org/account/accomplishments/verify/B506671WRWX4)**  
-- 🌍 **[Web Fundamentals - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SE9TRGWNI4.pdf)**  
+- 🏴‍☠️ **[Web Fundamentals - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SE9TRGWNI4.pdf)**  
 - 🔰 **[Pre Security - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-C2G2ZXOENZ.png)**  
 - 🐍 **[Python - Udemy](https://www.udemy.com/certificate/UC-17a06d36-a8ca-415b-831e-e77a586a0b33/)**  
 - 🌐 **[Web Development - Udemy](https://www.udemy.com/certificate/UC-53aacb89-3dfd-4d80-bed1-3db59eda547b/)**  
+- ⚡ **[Automate Cybersecurity Tasks with Python - Coursera](https://www.coursera.org/account/accomplishments/verify/KD7X7RV7OCFS)**  
+- 🛡 **[Assets, Threats, and Vulnerabilities - Coursera](https://www.coursera.org/account/accomplishments/verify/GGWZ9BH1Z6S6)**  
+- 🎓 **[Certificate of Training - NullClass](https://www.nullclass.com/certificates/6770204c62713e69919024d1)**  
+- 🏴‍☠️ **[Jr Penetration Tester - TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SH6LXAN6U5.pdf)**  
+- 💻 **[500 Difficulty Rating - CodeChef Java](https://www.codechef.com/certificates/public/dc2ccbe)**  
 
 ---
 <h3 align="left">Connect with me:</h3>
