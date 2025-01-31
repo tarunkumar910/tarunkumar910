@@ -8,13 +8,14 @@
 - 🔍I’m currently working on [Information Gathering](https://github.com/tarunkumar910/information-gathering) - Researching tools and techniques for cybersecurity reconnaissance.
 
 - 📚 I’m currently learning **VAPT, Network scanning, Pen testing** to enhance my offensive security skills.
-
-- 👨‍💻 All of my projects are available at [Project](https://tarunkumar910.github.io/projects.html)
-
+  
 - 📫 How to reach me **kr.pathak.tarun@gmail.com**
 
 - 📄 Know about my experiences [Resume](cv/hello.pdf)
 
+
+## 👨‍💻 Projects
+You can find all of my projects here: **[My Projects](https://tarunkumar910.github.io/projects.html)**
 
 ---
 
