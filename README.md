@@ -1,134 +1,37 @@
-# Hello, I'm TARUN KUMAR
-<a href="https://www.linkedin.com/in/tarun-kumar-pathak/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://tryhackme.com/r/p/tarunkumar910"><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
-<a href="https://leetcode.com/u/tarunkumar910/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?&style=for-the-badge&logo=LeetCode&logoColor=white" /></a>
-<a href="https://tarunkumar910.github.io/"><img src="https://img.shields.io/badge/-Portfolio-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h1 align="center">Hi 👋, I'm Tarun Kumar Pathak</h1>
+<h3 align="center">I’m a third-year Electronics and Communication Engineering B.Tech student with a strong passion for coding, cybersecurity, and IoT development. My technological journey has encompassed ethical hacking, competitive coding, and cybersecurity research, where I continuously explore new vulnerabilities and security measures. In addition to cybersecurity, I am also a video editor and YouTube content creator, producing engaging and informative content related to gaming, cybersecurity, and tech tutorials. My ability to merge technical expertise with creative storytelling allows me to simplify complex topics for a wider audience. As a prospective Security Operations Center (SOC) Tier 1 Analyst, I am eager to contribute to real-world security challenges, leveraging my skills to enhance digital defense strategies.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunkumar910&label=Profile%20views&color=0e75b6&style=flat" alt="tarunkumar910" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunkumar910" alt="tarunkumar910" /></a> </p>
 
+- 🔭 I’m currently working on [Information Gathering](https://github.com/tarunkumar910/information-gathering)
 
-I'm a third-year Electronics and Communication Engineering B.Tech student that is really passionate about coding and cybersecurity. IoT development, ethical hacking, and competitive coding and cybersecurity have all been parts of my technological path. As a prospective Security Operations Center (SOC) Tier 1 Analyst, I am excited to help address practical security issues.
+- 🌱 I’m currently learning **VAPT, Network scanning, Pen testing**
 
+- 👨‍💻 All of my projects are available at [https://tarunkumar910.github.io/](https://tarunkumar910.github.io/)
 
+- 📫 How to reach me **kr.pathak.tarun@gmail.com**
 
-## Objective
+- 📄 Know about my experiences [https://drive.google.com/file/d/1sSdKyyUmtRUBJjx7RfxdGN4uX_xFbZEO/view?usp=sharing](https://drive.google.com/file/d/1sSdKyyUmtRUBJjx7RfxdGN4uX_xFbZEO/view?usp=sharing)
 
-To land a demanding job as an entry-level cybersecurity analyst so I may apply my problem-solving, vulnerability-assessment, and ethical hacking abilities. I want to help protect digital assets and improve corporate security with my solid background in IoT systems, programming, and practical experience with tools like Wireshark, Nmap, and OWASP ZAP. In order to contribute significantly to a Security Operations Center (SOC) team, I'm dedicated to lifelong learning and cybersecurity excellence.t.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tarun-kumar-pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-kumar-pathak" height="30" width="40" /></a>
+<a href="https://fb.com/tarun.kr.pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tarun.kr.pathak" height="30" width="40" /></a>
+<a href="https://instagram.com/tarunkumar_910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tarunkumar_910" height="30" width="40" /></a>
+<a href="https://medium.com/@deathkiller447" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@deathkiller447" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/limitlessjourney910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="limitlessjourney910" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/tarunpathakkr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tarunpathakkr" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tarun_pathak_kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tarun_pathak_kr" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tarunkumar910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tarunkumar910" height="30" width="40" /></a>
+</p>
 
-## Skills
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-**Cybersecurity Skills**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunkumar910&show_icons=true&locale=en&layout=compact" alt="tarunkumar910" /></p>
 
-* **Ethical Hacking**: Proficient in penetration testing, vulnerability assessment, and threat analysis.
-* **Network Security**: Skilled in traffic monitoring, packet analysis using tools like Wireshark and Nmap.
-* **Web Application Security**: Experienced with OWASP ZAP, Burp Suite for detecting vulnerabilities.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunkumar910&show_icons=true&locale=en" alt="tarunkumar910" /></p>
 
-  
-**Programming and Scripting**
-
-* **Languages**: Python, Java, C, JavaScript.
-* Developed scripts for automating security tasks and mitigating threats.
-
-
-**Web Development**
-
-* Proficient in HTML, CSS, Bootstrap for responsive web design.
-* Created user-friendly UI with performance optimization for desktop and mobile platforms.
-  
-**IoT Systems**
-
-* Expertise in IoT development, including designing biometric systems with Arduino.
-* Ensured secure data integration and hardware-software interaction.
-
-**Soft Skills**
-* **Problem-solving**: Enhanced through participation in coding challenges and cybersecurity rooms.
-* **Teamwork**: Collaborated on hackathons and projects to deliver impactful solutions.
-* **Communication**: Created detailed security reports and presented findings effectively.
-## Tools
-
-#### **Cybersecurity Tools**
-- **Wireshark:** For network packet analysis and traffic monitoring.  
-- **Nmap:** Used for network scanning and vulnerability detection.  
-- **Burp Suite:** For web application security testing.  
-- **OWASP ZAP:** Identifying and mitigating web vulnerabilities.  
-
-#### **Programming Tools**
-- **VS Code:** Efficient coding and debugging environment.  
-- **Git:** For version control and collaborative development.
-
-#### **IoT and Hardware Tools**
-- **Arduino IDE:** Developing and deploying IoT solutions.  
-- **Velociraptor:** Endpoint forensic and threat detection.
-
-#### **Web Development Tools**
-- **HTML/CSS Frameworks:** Bootstrap for responsive UI design.  
-- **Browser DevTools:** Debugging and optimizing web applications.
-  
-  
-
-
-## Certifications
-
-<div>
-<a href="https://cit2.internshipstudio.com/certificates/validate_certificate.php?verify=ISETHT103046"><img src="https://img.shields.io/badge/-Cyber_Security-FF0000?&style=for-the-badge&logo=CyberSecurity&logoColor=white" /></a>
-<a href="https://cit2.internshipstudio.com/certificates/validate_certificate.php?verify=ISETHI103046"><img src="https://img.shields.io/badge/-Internship-007ACC?&style=for-the-badge&logo=InternshipStudio&logoColor=white" /></a>
-<a href="https://www.coursera.org/account/accomplishments/verify/36AJC7S2JA57"><img src="https://img.shields.io/badge/-Risk_Management-4D4D4D?&style=for-the-badge&logo=Google&logoColor=white" /></a>
-<a href="https://www.coursera.org/account/accomplishments/verify/1JZ3FD5ZOVBA"><img src="https://img.shields.io/badge/-Linux_&_SQL-4D4D4D?&style=for-the-badge&logo=Google&logoColor=white" /></a>
-<a href="https://www.coursera.org/account/accomplishments/verify/B506671WRWX4"><img src="https://img.shields.io/badge/-Foundations_of_Cybersecurity-2C2F33?&style=for-the-badge&logo=Google&logoColor=white" /></a>
-<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SE9TRGWNI4.pdf"><img src="https://img.shields.io/badge/-Web_Fundamentals-006400?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
-<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-C2G2ZXOENZ.png"><img src="https://img.shields.io/badge/-Pre_Security_by_TryHackMe-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
-<a href="https://www.udemy.com/certificate/UC-17a06d36-a8ca-415b-831e-e77a586a0b33/"><img src="https://img.shields.io/badge/-Python-000080?&style=for-the-badge&logo=Udemy&logoColor=white" /></a>
-<a href="https://www.udemy.com/certificate/UC-53aacb89-3dfd-4d80-bed1-3db59eda547b/"><img src="https://img.shields.io/badge/-Web_Development-000080?&style=for-the-badge&logo=Udemy&logoColor=white" /></a>
-
-
-</div>
-
----
-
-## Internship
-
-### **Cybersecurity Internship at RD INFRO TECHNOLOGY**
-During my **4-week internship**, I worked on various projects that enhanced my technical and practical cybersecurity skills.  
-<a href="https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/blob/main/Attachment/CYBER%20SECURITY.png">
-    <img src="https://img.shields.io/badge/-Cyber_Security_Intern-FF0000?&style=for-the-badge&logo=CyberSecurity&logoColor=white" />
-</a>
-
-
-#### Key Projects:
-1. **Password Manager**  
-   - Developed a Python-based tool to create, store, and manage passwords securely.  
-   - Implemented encryption for sensitive data.  
-   [🔗 View Project](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Password%20manager%20Guide)
-
-2. **Phishing Email Detection Report**  
-   - Conducted research on phishing techniques and detection methods.  
-   - Created a detailed report with strategies for identifying and mitigating phishing attacks.  
-   [🔗 View Report](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Phishing%20Detection)
-
-3. **Vulnerability Scanning**  
-   - Performed vulnerability scans using OpenVAS.  
-   - Documented findings and proposed remediation steps.  
-   [🔗 View Report](https://github.com/tarunkumar910/RD_INFRO_TECHNOLOGY/tree/main/Open%20VAS)
- 
----
-
-
-
-## Projects
-
-**Web  Development Projects**
-
-<a href="https://tarunkumar910.github.io/Assignment/"><img src="https://img.shields.io/badge/-Assignment-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
-<a href="https://tarunkumar910.github.io/cv/"><img src="https://img.shields.io/badge/-CV-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
-<a href="https://tarunkumar910.github.io/tin-dog-project/"><img src="https://img.shields.io/badge/-Tin_Dog_Project-F2994A?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
-<a href="https://tarunkumar910.github.io/personal/"><img src="https://img.shields.io/badge/-Personal-8E44AD?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
-
-**Cyber Security Project**
-
-<a href="https://github.com/tarunkumar910/password_strength_checker.git"><img src="https://img.shields.io/badge/-Password_Strength_Checker-8E44AD?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
-
-
-**JAVA Project**
-
-<a href="https://github.com/tarunkumar910/tic_tac_to_game"><img src="https://img.shields.io/badge/-Tic_tac_to_Game-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
- 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkumar910&" alt="tarunkumar910" /></p>
