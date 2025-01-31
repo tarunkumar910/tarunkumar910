@@ -127,11 +127,10 @@ You can find all of my projects here: **[My Projects](https://tarunkumar910.gith
 <a href="https://tryhackme.com/r/p/tarunkumar910" target="blank"><img align="center" src="download.svg" alt="tarunkumar910" height="30" width="40" /></a>
 </p>
 
----
 
 
 
-☕ <h3 align="left"> Support Me:</h3>
+### ☕ Support Me:
 If you like my content, consider supporting me on:  
 - 🎥 [YouTube](https://www.youtube.com/c/limitlessjourney910) – Subscribe for tech and gaming tutorials  
 - 💬 [Medium](https://medium.com/@deathkiller447) – Read my cybersecurity write-ups  
