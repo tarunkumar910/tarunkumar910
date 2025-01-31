@@ -14,8 +14,6 @@
 - 📄 Know about my experiences [Resume](cv/hello.pdf)
 
 
-## 👨‍💻 Projects
-You can find all of my projects here: **[My Projects](https://tarunkumar910.github.io/projects.html)**
 
 ---
 
@@ -75,7 +73,10 @@ You can find all of my projects here: **[My Projects](https://tarunkumar910.gith
 
 ---
 
-## 🚀 Featured Projects  
+### 🚀 Featured Projects 
+
+## 👨‍💻 Projects
+You can find all of my projects here: **[My Projects](https://tarunkumar910.github.io/projects.html)**
 
 ### 🔹 **Cybersecurity Projects**  
 ✔ **[Password Strength Checker](https://github.com/tarunkumar910/password_strength_checker.git)** – Developed a tool to analyze password security.  
