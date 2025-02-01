@@ -18,7 +18,7 @@
 ---
 
 ## 🛠 Skills
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gifcen.com%2Fhacker-gif-25%2F&psig=AOvVaw2KVOeqI2s8KO17IwdpXoMa&ust=1738472192932000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDQ_9zXoYsDFQAAAAAdAAAAABAJ">
 
 ### 🔹 **Cybersecurity & Ethical Hacking**
 ✔ Penetration Testing & Vulnerability Assessment  
