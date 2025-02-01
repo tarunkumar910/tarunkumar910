@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunkumar910" alt="tarunkumar910" /></a> </p>
 
-- 🔍I’m currently working on [Information Gathering](https://github.com/tarunkumar910/information-gathering) - Researching tools and techniques for cybersecurity reconnaissance.
+- 🔍I’m currently working on *[Information Gathering](https://github.com/tarunkumar910/information-gathering)* - Researching tools and techniques for cybersecurity reconnaissance.
 
 - 📚 I’m currently learning **VAPT, Network scanning, Pen testing** to enhance my offensive security skills.
   
