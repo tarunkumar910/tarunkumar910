@@ -11,7 +11,7 @@
   
 - 📫 How to reach me **kr.pathak.tarun@gmail.com**
 
-- 📄 Know about my experiences [Resume](cv/hello.pdf)
+- 📄 Know about my experiences *[Resume](cv/hello.pdf)*
 
 
 
@@ -96,7 +96,7 @@
 
 
 ## 👨‍💻 Projects
-You can find all of my projects here: **[My Projects](https://tarunkumar910.github.io/projects.html)**
+You can find all of my projects here: *[My Projects](https://tarunkumar910.github.io/projects.html)*
 
 
 
