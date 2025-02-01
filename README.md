@@ -18,7 +18,11 @@
 ---
 
 ## 🛠 Skills
-<img align="right" alt="coding" width="400" src="hacker-gif-2.gifJ">
+<h1 align="right">
+  <img src="hacker-gif-2.gifJ" alt="Hakcer" width="700px"></a>
+  <br>
+</h1>
+
 
 ### 🔹 **Cybersecurity & Ethical Hacking**
 ✔ Penetration Testing & Vulnerability Assessment  
