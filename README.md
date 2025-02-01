@@ -18,11 +18,8 @@
 ---
 
 ## 🛠 Skills
-<h1 align="right">
-  <img src="hacker-gif-2.gifJ" alt="Hakcer" width="700px"></a>
-  <br>
-</h1>
-![](hacker-gif-2.gifJ)
+
+<img align="right" alt="coding" width="400" src="https://github.com/tarunkumar910/tarunkumar910/blob/main/hacker-gif-2.gif">
 
 
 ### 🔹 **Cybersecurity & Ethical Hacking**
