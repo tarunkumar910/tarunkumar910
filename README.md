@@ -22,6 +22,7 @@
   <img src="hacker-gif-2.gifJ" alt="Hakcer" width="700px"></a>
   <br>
 </h1>
+![](hacker-gif-2.gifJ)
 
 
 ### 🔹 **Cybersecurity & Ethical Hacking**
