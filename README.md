@@ -1,3 +1,4 @@
+![Logo](Video Editor.jpg)
 <h1 align="center">Hi 👋, I'm Tarun Kumar Pathak</h1>
 <h3 align="center">I’m a third-year Electronics and Communication Engineering B.Tech student with a strong passion for coding, cybersecurity, and IoT development. My technological journey has encompassed ethical hacking, competitive coding, and cybersecurity research, where I continuously explore new vulnerabilities and security measures. In addition to cybersecurity, I am also a video editor and YouTube content creator, producing engaging and informative content related to gaming, cybersecurity, and tech tutorials. My ability to merge technical expertise with creative storytelling allows me to simplify complex topics for a wider audience. As a prospective Security Operations Center (SOC) Tier 1 Analyst, I am eager to contribute to real-world security challenges, leveraging my skills to enhance digital defense strategies.</h3>
 
